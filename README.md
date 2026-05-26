@@ -46,9 +46,7 @@
             text-align: center;
             padding: 10px;
         }
-                button:hover {
-            background-color: LightCyan;
-        }
+            
     </style>
 </head>
 
